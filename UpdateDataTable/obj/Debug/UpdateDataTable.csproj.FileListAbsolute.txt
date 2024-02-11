@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\bin\Debug\UpdateDataTable.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\bin\Debug\UpdateDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\bin\Debug\UpdateDataTable.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\obj\Debug\UpdateDataTable.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\obj\Debug\UpdateDataTable.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\obj\Debug\UpdateDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\UpdateDataTable\obj\Debug\UpdateDataTable.pdb

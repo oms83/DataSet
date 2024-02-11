@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\bin\Debug\DataTableExample.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\bin\Debug\DataTableExample.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\bin\Debug\DataTableExample.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\obj\Debug\DataTableExample.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\obj\Debug\DataTableExample.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\obj\Debug\DataTableExample.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataTableExample\obj\Debug\DataTableExample.pdb

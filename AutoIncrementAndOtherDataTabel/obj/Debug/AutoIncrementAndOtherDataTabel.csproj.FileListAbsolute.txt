@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\bin\Debug\AutoIncrementAndOtherDataTabel.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\bin\Debug\AutoIncrementAndOtherDataTabel.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\bin\Debug\AutoIncrementAndOtherDataTabel.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\obj\Debug\AutoIncrementAndOtherDataTabel.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\obj\Debug\AutoIncrementAndOtherDataTabel.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\obj\Debug\AutoIncrementAndOtherDataTabel.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\AutoIncrementAndOtherDataTabel\obj\Debug\AutoIncrementAndOtherDataTabel.pdb

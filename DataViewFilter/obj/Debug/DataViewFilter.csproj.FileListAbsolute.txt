@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\bin\Debug\DataViewFilter.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\bin\Debug\DataViewFilter.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\bin\Debug\DataViewFilter.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\obj\Debug\DataViewFilter.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\obj\Debug\DataViewFilter.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\obj\Debug\DataViewFilter.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\DataViewFilter\obj\Debug\DataViewFilter.pdb

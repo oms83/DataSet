@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\bin\Debug\ClearDataTable.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\bin\Debug\ClearDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\bin\Debug\ClearDataTable.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\obj\Debug\ClearDataTable.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\obj\Debug\ClearDataTable.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\obj\Debug\ClearDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\ClearDataTable\obj\Debug\ClearDataTable.pdb

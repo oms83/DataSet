@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\bin\Debug\PrimaryKeyDataTable.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\bin\Debug\PrimaryKeyDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\bin\Debug\PrimaryKeyDataTable.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\obj\Debug\PrimaryKeyDataTable.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\obj\Debug\PrimaryKeyDataTable.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\obj\Debug\PrimaryKeyDataTable.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\CSWithDatabase\PrimaryKeyDataTable\obj\Debug\PrimaryKeyDataTable.pdb
